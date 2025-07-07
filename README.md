@@ -18,7 +18,10 @@ Ağ trafiğinizi gerçek zamanlı olarak izler, önceden tanımlanmış imzalara
 
 ## Kurulum
 git clone https://github.com/forwellsh/WardenIDS
+
+
 cd WardenIDS
+
 
 # Sanal ortam oluştur ve aktif et
 python3 -m venv venv
