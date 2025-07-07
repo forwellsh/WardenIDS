@@ -10,7 +10,6 @@ Ağ trafiğinizi gerçek zamanlı olarak izler, önceden tanımlanmış imzalara
 - TCP paketlerinin içeriğini analiz eder.
 - İmza tabanlı tespit (imza dosyasındaki anahtar kelimelerle karşılaştırma).
 - Şüpheli paketler tespit edildiğinde kullanıcıyı uyarır.
-- Log dosyasına uyarı detaylarını kaydeder.
 - Kolayca imza dosyası güncellenebilir.
 - Açık kaynak ve kolayca geliştirilebilir.
 
