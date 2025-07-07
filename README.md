@@ -1,7 +1,7 @@
 # WardenIDS
 
 WardenIDS, **basit imza tabanlı bir Python ağ izleme ve saldırı tespit sistemi (IDS)**dir.  
-Ağ trafiğinizi gerçek zamanlı olarak izler, önceden tanımlanmış imzalara (anahtar kelimelere) göre şüpheli aktiviteleri tespit eder ve bu aktiviteleri hem terminalde gösterir hem de log dosyasına kaydeder.
+Ağ trafiğinizi gerçek zamanlı olarak izler, önceden tanımlanmış imzalara (anahtar kelimelere) göre şüpheli aktiviteleri tespit eder ve bu aktiviteleri terminalde gösterir.
 
 ---
 
