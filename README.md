@@ -25,6 +25,8 @@ cd WardenIDS
 
 # Sanal ortam oluştur ve aktif et
 python3 -m venv venv
+
+
 source venv/bin/activate
 
 # Bağımlılıkları yükle
