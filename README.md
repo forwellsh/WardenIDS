@@ -28,5 +28,4 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # Kullanım
-# Ağ trafiğini izlemek için (root yetkisi gerektirir)
 sudo ./venv/bin/python3 WardenIDS.py
