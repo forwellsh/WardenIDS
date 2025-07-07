@@ -1,16 +1,35 @@
 # WardenIDS
 
-Basit imza tabanlı Python IDS (Intrusion Detection System)
+WardenIDS, **basit imza tabanlı bir Python ağ izleme ve saldırı tespit sistemi (IDS)**dir.  
+Ağ trafiğinizi gerçek zamanlı olarak izler, önceden tanımlanmış imzalara (anahtar kelimelere) göre şüpheli aktiviteleri tespit eder ve bu aktiviteleri hem terminalde gösterir hem de log dosyasına kaydeder.
 
-## Gereksinimler
+---
 
-- Python 3
-- scapy
+## Özellikler
+
+- TCP paketlerinin içeriğini analiz eder.
+- İmza tabanlı tespit (imza dosyasındaki anahtar kelimelerle karşılaştırma).
+- Şüpheli paketler tespit edildiğinde kullanıcıyı uyarır.
+- Log dosyasına uyarı detaylarını kaydeder.
+- Kolayca imza dosyası güncellenebilir.
+- Açık kaynak ve kolayca geliştirilebilir.
+
+---
 
 ## Kurulum
 
-```bash
+
+# Proje klasörünü oluştur ve içine gir
+git clone https://github.com/forwellsh/WardenIDS
+cd WardenIDS
+
+# Sanal ortam oluştur ve aktif et
 python3 -m venv venv
 source venv/bin/activate
-git clone https://github.com/forwellsh/WardenIDS
+
+# Bağımlılıkları yükle
 pip install -r requirements.txt
+
+# Kullanım
+# Ağ trafiğini izlemek için (root yetkisi gerektirir)
+sudo ./venv/bin/python3 WardenIDS.py
