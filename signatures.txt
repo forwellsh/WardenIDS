@@ -1,0 +1,109 @@
+evil
+attack
+malware
+exploit
+trojan
+virus
+worm
+backdoor
+ransomware
+ddos
+dos
+sql injection
+xss
+cross-site scripting
+brute force
+port scan
+buffer overflow
+phishing
+spyware
+keylogger
+botnet
+shellcode
+payload
+rootkit
+zero-day
+cve
+unauthorized
+unauthenticated
+login failed
+credential dump
+privilege escalation
+remote code execution
+rce
+data breach
+information leak
+command injection
+directory traversal
+file inclusion
+session hijacking
+csrf
+cross site request forgery
+malicious
+injection
+unauthorized access
+access denied
+authentication failed
+denial of service
+command shell
+exploit kit
+honeypot
+ip spoofing
+dns poisoning
+arp poisoning
+tcp reset attack
+icmp flood
+smurf attack
+tcp syn flood
+udp flood
+sniffer
+packet sniffing
+ssl stripping
+man in the middle
+mitm
+credential stuffing
+password spraying
+session fixation
+cache poisoning
+dns rebinding
+heap spray
+format string
+null pointer dereference
+integer overflow
+race condition
+timing attack
+side channel attack
+root access
+privilege abuse
+service disruption
+network scanning
+fingerprinting
+bot herder
+malicious payload
+exploit payload
+fileless malware
+cryptojacking
+memory corruption
+heap overflow
+stack overflow
+dll injection
+remote desktop exploit
+vpn bypass
+usb malware
+watering hole
+drive by download
+logic bomb
+sandbox escape
+sandbox evasion
+backdoor trojan
+reverse shell
+webshell
+malicious script
+cross protocol attack
+dns tunneling
+command and control
+c2 server
+exfiltration
+data theft
+data exfiltration
+crypto miner
