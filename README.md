@@ -17,9 +17,6 @@ Ağ trafiğinizi gerçek zamanlı olarak izler, önceden tanımlanmış imzalara
 ---
 
 ## Kurulum
-
-
-# Proje klasörünü oluştur ve içine gir
 git clone https://github.com/forwellsh/WardenIDS
 cd WardenIDS
 
